@@ -1,4 +1,4 @@
-# Contributing to Material based Google Antigravity
+# Contributing to Lyadhconn for Google Antigravity
 
 Thanks for contributing! This document covers the branch strategy, local setup, and the workflow all contributors follow.
 
@@ -44,8 +44,8 @@ main        ← production; every commit here becomes a published release
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/lyadhgod/antigravity-vscode.git
-cd antigravity-vscode
+git clone https://github.com/lyadhgod/lyadhconn.git
+cd lyadhconn
 git checkout dev          # start from dev, not main
 npm install
 ```

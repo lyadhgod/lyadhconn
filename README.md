@@ -1,4 +1,6 @@
-# Material based Google Antigravity
+# Lyadhconn for Google Antigravity
+
+> This project is being sunsetted and thus will no longer be maintained.
 
 Bring Google's **Antigravity CLI** (`agy`) into VS Code — an agentic coding
 companion with a **Material 3 Expressive** chat panel, a slash‑command
@@ -12,7 +14,7 @@ official CLI does the work. The extension never bundles the CLI — it drives th
 > **Unofficial / community extension.** Not affiliated with or endorsed by
 > Google. "Antigravity" and "Gemini" are trademarks of Google LLC.
 
-![Material based Google Antigravity in action](media/demo.gif)
+![Lyadhconn for Google Antigravity in action](media/demo.gif)
 
 ---
 

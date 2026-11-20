@@ -131,7 +131,7 @@ jobs:
             echo ""
             echo "---"
             echo ""
-            echo "**Full diff:** [\`${PREV_TAG:-initial}..$TAG\`](https://github.com/lyadhgod/antigravity-vscode/compare/${PREV_TAG:-}...${TAG})"
+            echo "**Full diff:** [\`${PREV_TAG:-initial}..$TAG\`](https://github.com/lyadhgod/lyadhconn/compare/${PREV_TAG:-}...${TAG})"
           } > release_notes.md
 
           cat release_notes.md   # echo to the Actions log
